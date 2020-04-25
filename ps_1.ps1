@@ -1,0 +1,2 @@
+$a = "IP"
+write $a
