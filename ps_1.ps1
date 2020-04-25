@@ -1,2 +1,2 @@
 $a = "IP"
-write $a
+Write-Output $a
