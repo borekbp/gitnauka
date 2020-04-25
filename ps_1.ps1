@@ -1,2 +1,2 @@
 $a = "IP"
-Write-Output $a
+Write-Output $a.count
